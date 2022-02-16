@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: ''
+file: /media/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/3eb64f76fafbf568b659cd884606920b_MITRESTLL-008F21-6170hw5.docx
+file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 6.170 Software Studio
+parent_type: SupplementalResourceSection
+resourcetype: Other
+title: MITRESTLL-008F21-6170hw5.docx
+uid: 3eb64f76-fafb-f568-b659-cd884606920b
+---
