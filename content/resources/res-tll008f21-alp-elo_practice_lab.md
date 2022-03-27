@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'STS.047 Quantifying People: A History of Social Science'
 parent_type: SupplementalResourceSection
+parent_uid: b50f80a0-1b37-7c22-394d-94da1312c4ac
 resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), ALP ELO
 uid: e64ac4d2-9c8c-a46c-929a-4f9414fb071b

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'STS.047 Quantifying People: A History of Social Science'
 parent_type: SupplementalResourceSection
+parent_uid: b50f80a0-1b37-7c22-394d-94da1312c4ac
 resourcetype: Other
 title: RES-TLL008F21-ALP-ELO_Practice_Lab.docx
 uid: 1ac96d82-3bf0-485a-cf3d-0aafabb52d43

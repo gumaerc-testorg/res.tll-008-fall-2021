@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 6.170 Software Studio
 parent_type: SupplementalResourceSection
+parent_uid: 00ebca89-0d18-832b-af40-78795ba0684f
 resourcetype: Other
 title: MITRES-TLL-008F21-6170hw4.docx
 uid: d3a90c65-8be8-db6d-052b-9deaab0fc3cb

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 6.170 Software Studio
 parent_type: SupplementalResourceSection
+parent_uid: 00ebca89-0d18-832b-af40-78795ba0684f
 resourcetype: Document
 title: RES.TLL-008 SERC Active Learning Project, 6.170 Final Project Prompts
 uid: b0ca29c3-d7a5-72f6-5927-be6d8c9bbea8

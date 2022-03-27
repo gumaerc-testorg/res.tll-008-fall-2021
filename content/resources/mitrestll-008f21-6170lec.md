@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 6.170 Software Studio
 parent_type: SupplementalResourceSection
+parent_uid: 00ebca89-0d18-832b-af40-78795ba0684f
 resourcetype: Other
 title: MITRESTLL-008F21-6170lec.pptx
 uid: b3d886d5-3926-264c-5445-5a2c72199343

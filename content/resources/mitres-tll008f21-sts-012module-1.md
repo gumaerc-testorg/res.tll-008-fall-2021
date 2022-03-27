@@ -8,6 +8,7 @@ ocw_type: OCWFile
 parent_title: 'STS.012/STS.008 Science in Action: Technologies and Controversies in
   Everyday Life'
 parent_type: SupplementalResourceSection
+parent_uid: aa5524bd-44ac-a6cd-4acb-ef45ca9582d4
 resourcetype: Other
 title: MITRES-TLL008F21-STS-012module.docx
 uid: 8283d95f-3ec0-8827-1373-34de3d3959ca

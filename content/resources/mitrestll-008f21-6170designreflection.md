@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 6.170 Software Studio
 parent_type: SupplementalResourceSection
+parent_uid: 00ebca89-0d18-832b-af40-78795ba0684f
 resourcetype: Other
 title: MITRESTLL-008F21-6170designReflection.docx
 uid: b89d2884-4152-83f8-9263-3d8ab97dd456

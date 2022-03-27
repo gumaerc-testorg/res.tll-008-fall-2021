@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: '6.864 Quantitative Methods for Natural Language Processing '
 parent_type: SupplementalResourceSection
+parent_uid: e973e803-f498-7fee-0427-c3ab9df01ebf
 resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.864
   Assignment 2 Part 1

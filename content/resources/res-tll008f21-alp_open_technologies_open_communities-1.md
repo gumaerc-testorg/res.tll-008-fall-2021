@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Ethical Computing and Practice
 parent_type: SupplementalResourceSection
+parent_uid: a309ad69-914b-c4cb-9139-3610c7e186a1
 resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), ALP Open
   Technologies

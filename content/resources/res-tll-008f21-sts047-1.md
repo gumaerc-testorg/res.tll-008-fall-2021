@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Privacy and Surveillance
 parent_type: SupplementalResourceSection
+parent_uid: f803f749-08f1-c66f-60a3-cce1b7107d8d
 resourcetype: Document
 title: 'RES.TLL-008  Social and Ethical Responsibilities of Computing (SERC), STS.047
   Quantifying People: A History of Social Science Lecture'

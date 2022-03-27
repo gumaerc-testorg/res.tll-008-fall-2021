@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 6.170 Software Studio
 parent_type: SupplementalResourceSection
+parent_uid: 00ebca89-0d18-832b-af40-78795ba0684f
 resourcetype: Other
 title: MITRESTLL-008F21-6170ethical.docx
 uid: d9fd9177-7252-a2cc-082f-4ff820c42b6b

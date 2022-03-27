@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: '6.864 Quantitative Methods for Natural Language Processing '
 parent_type: SupplementalResourceSection
+parent_uid: e973e803-f498-7fee-0427-c3ab9df01ebf
 resourcetype: Other
 title: MITRES-TLL008F21-6864pt2a.docx
 uid: 996b34b2-1ed9-dd7d-9649-aacef7578764

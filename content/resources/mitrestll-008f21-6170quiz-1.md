@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 6.170 Software Studio
 parent_type: SupplementalResourceSection
+parent_uid: 00ebca89-0d18-832b-af40-78795ba0684f
 resourcetype: Document
 title: RES.TLL-008 SERC Active Learning Project, 6.170 Prep Quiz
 uid: f5cdb573-13a2-3bad-c190-2f77a8f3d6ac

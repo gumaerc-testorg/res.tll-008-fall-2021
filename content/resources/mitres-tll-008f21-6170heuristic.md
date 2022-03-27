@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 6.170 Software Studio
 parent_type: SupplementalResourceSection
+parent_uid: 00ebca89-0d18-832b-af40-78795ba0684f
 resourcetype: Other
 title: MITRES-TLL-F21-6170Heuristic.docx
 uid: b91f260b-e72d-ba5c-48c5-3d9bab5b5f61

@@ -8,6 +8,7 @@ ocw_type: OCWFile
 parent_title: 'STS.012/STS.008 Science in Action: Technologies and Controversies in
   Everyday Life'
 parent_type: SupplementalResourceSection
+parent_uid: aa5524bd-44ac-a6cd-4acb-ef45ca9582d4
 resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), STS.012/STS.008
   Discussion
