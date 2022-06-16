@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/c3648494c6466995748fc5235ac4ed7f_MITRES-TLL008F21-STS-012module.pdf
+file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/c3648494c6466995748fc5235ac4ed7f_MITRES-TLL008F21-STS-012module.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,4 +13,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), STS.012/STS.008
   Discussion
 uid: c3648494-c646-6995-748f-c5235ac4ed7f
+video_metadata:
+  youtube_id: null
 ---

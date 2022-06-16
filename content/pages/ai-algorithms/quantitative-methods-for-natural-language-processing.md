@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Class materials for 6.864 Quantitative Methods for Natural Language Processing
+  .
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: AI and Algorithms
@@ -7,9 +9,11 @@ parent_type: SupplementalResourceSection
 parent_uid: 17e1fff5-e25b-6a04-922e-1cd9935bbd5a
 title: '6.864 Quantitative Methods for Natural Language Processing '
 uid: e973e803-f498-7fee-0427-c3ab9df01ebf
+video_metadata:
+  youtube_id: null
 ---
 
-_\> Related Topics:_ [AI and Algorithms]({{< baseurl >}}/pages/ai-algorithms), [Ethical Computing and Practice]({{< baseurl >}}/pages/ethical-computing-and-practice)
+_\> Related Topics:_ {{% resource_link 17e1fff5-e25b-6a04-922e-1cd9935bbd5a "AI and Algorithms" %}}, {{% resource_link a309ad69-914b-c4cb-9139-3610c7e186a1 "Ethical Computing and Practice" %}}
 
 _Authors:_ Jacob Andreas, Catherine D'Ignazio, Harini Suresh
 
@@ -24,22 +28,22 @@ _Topics addressed:_
 Resources:
 ----------
 
-### [Assignment “Dataset Creation” Description (PDF)]({{< baseurl >}}/resources/mitres-tll008f21-6864hw2-1) ([DOCX]({{< baseurl >}}/resources/mitres-tll008f21-6864hw2))
+### {{% resource_link 0628251d-c8fd-54cf-b9be-078a314b367f "Assignment “Dataset Creation” Description (PDF)" %}} ({{% resource_link 89c5a106-df85-c847-989c-ec05f8831dec "DOCX" %}})
 
 _Part 0:_ Short-answer reflections to a few hypothetical scenarios.
 
-*   [Dataset Creation Part 0 (PDF)]({{< baseurl >}}/resources/mitres-tll008f21_6864pt0) ([DOCX]({{< baseurl >}}/resources/mitres-tll008f21_6864pt0-1)) 
+*   {{% resource_link 62162d4f-9774-1c38-1b49-2697930242ed "Dataset Creation Part 0 (PDF)" %}} ({{% resource_link e5d02efc-779c-7291-4b80-00de26e1d847 "DOCX" %}}) 
 
 _Part 1:_ This part is done in groups. You will have the role of a researcher in charge of creating a dataset. You’ll receive a hypothetical task, make decisions about what labels you want to collect, and write instructions to a group of annotators.
 
-*   [Dataset Creation Part 1 (PDF)]({{< baseurl >}}/resources/mitres-tll008f21-6864pt1) ([DOCX]({{< baseurl >}}/resources/mitres-tll008f21-6864pt1-1))
-    *   [Task A: Comment Moderation (PDF)]({{< baseurl >}}/resources/mitres-tll008f21-6864taska) ([DOCX]({{< baseurl >}}/resources/mitres-tll008f21-6864taska-1))
-    *   [Task B: Credibility Evaluation (PDF)]({{< baseurl >}}/resources/mitres-tll008f21-6864taskb) ([DOCX]({{< baseurl >}}/resources/mitres-tll008f21-6864taskb-1))
+*   {{% resource_link 2fe10577-e850-99da-9237-66ef6a2677ae "Dataset Creation Part 1 (PDF)" %}} ({{% resource_link 4008487b-beb0-88b1-8e99-a15727f1dec5 "DOCX" %}})
+    *   {{% resource_link 0ae39a79-ffc5-fe4b-546f-9fd4d37f7e36 "Task A: Comment Moderation (PDF)" %}} ({{% resource_link 603ed2b2-07b9-faf9-3d08-49fbd4aa4330 "DOCX" %}})
+    *   {{% resource_link fe3bb439-ec06-7d10-ce2e-371510e8c59d "Task B: Credibility Evaluation (PDF)" %}} ({{% resource_link ab97d736-486c-9d0e-68bc-963f1f370f0d "DOCX" %}})
 
 _Part 2:_ This part is done individually. You’ll now be an annotator. First, take the instructions you wrote and annotate a new set of examples according to them. Then, you will receive instructions from a different group, for a different task, and will be asked to annotate a set of examples by following their instructions.
 
-*   [Dataset Creation Part 2A (PDF)]({{< baseurl >}}/resources/mitres-tll008f21-6864pt2a) ([DOCX]({{< baseurl >}}/resources/mitres-tll008f21-6864pt2a-1))
-*   [Dataset Creation Part 2B (PDF)]({{< baseurl >}}/resources/mitres-tll008f21-6864pt2b) ([DOCX]({{< baseurl >}}/resources/mitres-tll008f21-6864pt2b-1))
+*   {{% resource_link 3a999f0c-7f4f-fc4d-e5e2-a39cfdc3fff4 "Dataset Creation Part 2A (PDF)" %}} ({{% resource_link 996b34b2-1ed9-dd7d-9649-aacef7578764 "DOCX" %}})
+*   {{% resource_link c9b875e0-4f63-9263-df67-57c586d1f9bc "Dataset Creation Part 2B (PDF)" %}} ({{% resource_link 0be4e483-4809-4bf2-f5f2-97452a745f44 "DOCX" %}})
 
 _Part 3:_ Pick one of the listed readings to read & respond to. See assignment description for titles.
 

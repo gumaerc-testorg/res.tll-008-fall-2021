@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: "In this section, Professor Catherine D\u2019Ignazio, Professor Jacob\
+  \ Andreas, and graduate student Harini Suresh describe various aspects of how they\
+  \ taught 6.864 Quantitative Methods for Natural Language Processing."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: ea6634c6-1841-f34c-97bd-e95620a88401
+video_metadata:
+  youtube_id: null
 ---
 
 Instructor Insights

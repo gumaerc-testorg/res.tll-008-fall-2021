@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/ab97d736486c9d0e68bc963f1f370f0d_MITRES-TLL008F21-6864taskb.docx
+file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/ab97d736486c9d0e68bc963f1f370f0d_MITRES-TLL008F21-6864taskb.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,6 @@ parent_uid: e973e803-f498-7fee-0427-c3ab9df01ebf
 resourcetype: Other
 title: MITRES-TLL008F21-6864taskb.docx
 uid: ab97d736-486c-9d0e-68bc-963f1f370f0d
+video_metadata:
+  youtube_id: null
 ---

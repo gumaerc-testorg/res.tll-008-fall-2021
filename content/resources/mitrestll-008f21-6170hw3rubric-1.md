@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/9bf49e0a47e42aab4670863c60db9b1e_MITRESTLL-008F21-6170hw3rubric.pdf
+file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/9bf49e0a47e42aab4670863c60db9b1e_MITRESTLL-008F21-6170hw3rubric.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   Assignment 3 Rubric
 uid: 9bf49e0a-47e4-2aab-4670-863c60db9b1e
+video_metadata:
+  youtube_id: null
 ---

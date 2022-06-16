@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/23a3a891e6bafd1c513bfb3064f3a613_MITRESTLL-008F21-6170user.pdf
+file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/23a3a891e6bafd1c513bfb3064f3a613_MITRESTLL-008F21-6170user.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   User Test Template
 uid: 23a3a891-e6ba-fd1c-513b-fb3064f3a613
+video_metadata:
+  youtube_id: null
 ---

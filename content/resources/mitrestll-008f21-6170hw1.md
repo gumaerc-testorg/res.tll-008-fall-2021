@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/df8095731195cd061ac83eafcc55a881_MITRESTLL-008F21-6170hw1.pdf
+file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/df8095731195cd061ac83eafcc55a881_MITRESTLL-008F21-6170hw1.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,4 +12,6 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.170
   A1 Problem Statement
 uid: df809573-1195-cd06-1ac8-3eafcc55a881
+video_metadata:
+  youtube_id: null
 ---
