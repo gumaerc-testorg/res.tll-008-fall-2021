@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Class materials for STS.047 Quantifying People: A History of Social
+  Science.'
+draft: false
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 parent_title: Privacy and Surveillance
@@ -7,27 +10,26 @@ parent_type: SupplementalResourceSection
 parent_uid: f803f749-08f1-c66f-60a3-cce1b7107d8d
 title: 'STS.047 Quantifying People: A History of Social Science'
 uid: b50f80a0-1b37-7c22-394d-94da1312c4ac
+video_metadata:
+  youtube_id: null
 ---
+*\> Related Topics:* {{% resource_link "f803f749-08f1-c66f-60a3-cce1b7107d8d" "Privacy and Surveillance" %}}, {{% resource_link "8918d065-a83d-28bb-930c-c997c41daa24" "Inequality, Justice, & Human Rights" %}}
 
-_\> Related Topics:_ [Privacy and Surveillance]({{< baseurl >}}/pages/privacy-surveillance), [Inequality, Justice, & Human Rights]({{< baseurl >}}/pages/inequality-justice-human-rights)
+*Author:* Will Deringer
 
-_Author:_ Will Deringer
+*Keywords:* ​​policing; criminal justice; race; racism; actuarial techniques; risk assessments; big data; surveillance
 
-_Keywords:_ ​​policing; criminal justice; race; racism; actuarial techniques; risk assessments; big data; surveillance
+*Questions addressed:*
 
-_Questions addressed:_
+- What role have quantitative data, computational methods, and social science played in the construction of modern systems of criminal justice?
+- How has quantification contributed to the injustices of modern policing and punishment—to the creation and maintenance of a system that disproportionately and unjustly targets, punishes, incarcerates, and kills people of color, especially Black citizens?
+- What can history tell us about the role that data and computation should—or should not—play in efforts to create a more just system of justice in the future?
 
-*   What role have quantitative data, computational methods, and social science played in the construction of modern systems of criminal justice?
-*   How has quantification contributed to the injustices of modern policing and punishment—to the creation and maintenance of a system that disproportionately and unjustly targets, punishes, incarcerates, and kills people of color, especially Black citizens?
-*   What can history tell us about the role that data and computation should—or should not—play in efforts to create a more just system of justice in the future?
+## Resources:
 
-Resources:
-----------
+*Lecture Module:* {{% resource_link "9fd9e6dd-436b-af1b-7d0b-e9ff0011d48c" "Quantifying People: A History of Social Science Lecture (PDF)" %}} {{% resource_link "b117137f-5b5e-bc7e-c8da-a0b8c437d813" "PPTX - 5.8MB)" %}}
 
-_Lecture Module:_ ["Quantify and Punish: Data, Race, and Policing from the Burgess Method to Big Data" (PDF - 7.7MB)]({{< baseurl >}}/resources/res-tll008f21-alp-elo_practice_lab) [(PPTX - 5.8MB)]({{< baseurl >}}/resources/res-tll008f21-alp-elo_practice_lab-1)
-
-Additional Reading: 
---------------------
+## Additional Reading: 
 
 Ernest Burgess, “Factors Determining Success or Failure on Parole,” in Andrew A. Bruce et al., A Study of the Indeterminate Sentence and Parole in the State of Illinois (Chicago: Northwestern University Press for the American Institute of Criminal Law and Criminology, 1928), 241-286.
 
