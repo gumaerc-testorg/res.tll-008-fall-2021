@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/b117137f5b5ebc7ec8daa0b8c437d813_RES-TLL-008F21-STS047.pptx
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Privacy and Surveillance
 parent_type: SupplementalResourceSection

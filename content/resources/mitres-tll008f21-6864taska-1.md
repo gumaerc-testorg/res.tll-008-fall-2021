@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/603ed2b207b9faf93d0849fbd4aa4330_MITRES-TLL008F21-6864taska.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: '6.864 Quantitative Methods for Natural Language Processing '
 parent_type: SupplementalResourceSection

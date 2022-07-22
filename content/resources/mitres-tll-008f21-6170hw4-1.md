@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/e32b7e603fd52d38120ffd274c508106_MITRES-TLL-008F21-6170hw4.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 6.170 Software Studio
 parent_type: SupplementalResourceSection

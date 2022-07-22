@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Two pairs of students sitting at a desk and discussing with each other.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-tll-008f21-th.jpg

@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/e64ac4d29c8ca46c929a4f9414fb071b_RES-TLL008F21-ALP-ELO_Practice_Lab.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: 'STS.047 Quantifying People: A History of Social Science'
 parent_type: SupplementalResourceSection
