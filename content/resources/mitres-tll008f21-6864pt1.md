@@ -1,9 +1,15 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/2fe10577e85099da923766ef6a2677ae_MITRES-TLL008F21-6864pt1.pdf
+draft: false
+file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/2fe10577e85099da923766ef6a2677ae_MITRES-TLL008F21-6864pt1.pdf
 file_type: application/pdf
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Multiple Assignment Types
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: '6.864 Quantitative Methods for Natural Language Processing '
@@ -13,6 +19,13 @@ resourcetype: Document
 title: RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.864
   Assignment 2 Part 1
 uid: 2fe10577-e850-99da-9237-66ef6a2677ae
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
-  youtube_id: null
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---

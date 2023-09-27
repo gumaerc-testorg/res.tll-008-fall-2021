@@ -1,6 +1,6 @@
 {
-  "term": "Fall",
-  "year": "2021",
+  "term": "Spring",
+  "year": "2023",
   "level": [
     "Non Credit"
   ],
@@ -47,8 +47,11 @@
     "website": "res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021"
   },
   "learning_resource_types": [
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights",
+    "Multiple Assignment Types"
   ],
-  "site_uid": "2cd1f784-59ff-4771-9beb-40e6ed9d20c8",
+  "site_uid": "258494c9-7ab6-49ca-8af8-21afe92d097d",
+  "site_short_id": "res.tll-008-fall-2021",
   "title": "Course Metadata"
 }
