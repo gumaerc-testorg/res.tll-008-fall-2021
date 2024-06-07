@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/b86111d8d6bb24c2ec32b796d0304008_res-tll-008f21-th.jpg
+file_size: 20884
 file_type: image/jpeg
 image_metadata:
   caption: 'Students involved in active learning projects. (Courtesy of University

@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mitres_tll008_17_46_cybercrisis2.docx
+file_size: 22185
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
   caption: ''

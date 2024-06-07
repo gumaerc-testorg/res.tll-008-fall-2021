@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mit_restll008_6-031_moralslides2.pptx
+file_size: 339717
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
   caption: ''

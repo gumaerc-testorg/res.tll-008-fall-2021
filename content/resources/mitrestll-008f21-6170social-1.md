@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/7b8f6d9f0db6fce8f37261b70ce2aef4_MITRESTLL-008F21-6170social.pdf
+file_size: 65604
 file_type: application/pdf
 image_metadata:
   caption: ''
