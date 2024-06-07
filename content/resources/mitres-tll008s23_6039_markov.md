@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mitres-tll008s23_6039_markov.pdf
+file_size: 537754
 file_type: application/pdf
 image_metadata:
   caption: ''
