@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/59fd2afdceea9458d968584f28f42dd2_MITRES-TLL-008F21-6170Heuristic.pdf
+file_size: 49220
 file_type: application/pdf
 image_metadata:
   caption: ''
