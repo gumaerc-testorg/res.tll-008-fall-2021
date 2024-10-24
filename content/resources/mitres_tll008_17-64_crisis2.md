@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mitres_tll008_17-64_crisis2.pdf
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mitres_tll008_17-64_crisis2.pdf
 file_size: 182424
 file_type: application/pdf
 image_metadata:
