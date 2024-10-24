@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/0ddc2160f045ce3f896d53ad99980c2a_RES-TLL008F21-ALP_Open_Technologies_Open_Communities.docx
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/0ddc2160f045ce3f896d53ad99980c2a_RES-TLL008F21-ALP_Open_Technologies_Open_Communities.docx
 file_size: 56894
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:

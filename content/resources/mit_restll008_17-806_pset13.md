@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mit_restll008_17-806_pset12.zip
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mit_restll008_17-806_pset12.zip
 file_size: 141972
 file_type: application/zip
 image_metadata:
