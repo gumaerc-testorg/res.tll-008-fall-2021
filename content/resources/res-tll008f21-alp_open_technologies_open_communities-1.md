@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/17714235e1c6424208f5db881ee8643e_RES-TLL008F21-ALP_Open_Technologies_Open_Communities.pdf
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/17714235e1c6424208f5db881ee8643e_RES-TLL008F21-ALP_Open_Technologies_Open_Communities.pdf
 file_size: 172423
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/e64ac4d29c8ca46c929a4f9414fb071b_RES-TLL008F21-ALP-ELO_Practice_Lab.pdf
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/e64ac4d29c8ca46c929a4f9414fb071b_RES-TLL008F21-ALP-ELO_Practice_Lab.pdf
 file_size: 1107502
 file_type: application/pdf
 image_metadata:

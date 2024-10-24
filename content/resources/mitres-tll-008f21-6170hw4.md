@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/d3a90c658be8db6d052b9deaab0fc3cb_MITRES-TLL-008F21-6170hw4.docx
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/d3a90c658be8db6d052b9deaab0fc3cb_MITRES-TLL-008F21-6170hw4.docx
 file_size: 24323
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 image_metadata:
