@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mitres-tll008s23_6390_reinforcement.pdf
+file: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/mitres-tll008s23_6390_reinforcement.pdf
 file_size: 457738
 file_type: application/pdf
 image_metadata:
