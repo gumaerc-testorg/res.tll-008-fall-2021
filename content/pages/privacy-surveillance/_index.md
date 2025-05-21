@@ -11,7 +11,7 @@ uid: f803f749-08f1-c66f-60a3-cce1b7107d8d
 video_metadata:
   youtube_id: null
 ---
-### {{% resource_link "b50f80a0-1b37-7c22-394d-94da1312c4ac" "STS.047 Quantifying People: A History of Social Science" %}}
+## {{% resource_link "b50f80a0-1b37-7c22-394d-94da1312c4ac" "STS.047 Quantifying People: A History of Social Science" %}}
 
 *Author:* Will Deringer
 
@@ -25,7 +25,7 @@ video_metadata:
 - How has quantification contributed to the injustices of modern policing and punishment—to the creation and maintenance of a system that disproportionately and unjustly targets, punishes, incarcerates, and kills people of color, especially Black citizens?
 - What can history tell us about the role that data and computation should—or should not—play in efforts to create a more just system of justice in the future?
 
-### {{% resource_link "aa5524bd-44ac-a6cd-4acb-ef45ca9582d4" "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" %}}
+## {{% resource_link "aa5524bd-44ac-a6cd-4acb-ef45ca9582d4" "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" %}}
 
 *Author:* Dwai Banerjee
 
@@ -39,7 +39,7 @@ video_metadata:
 - To discuss whether they believe existing rights to be adequate
 - To examine whether current ethical standards (such as those instituted by the GDPR) sufficiently protect their rights (as they exist or as they believe should exist).
 
-### {{% resource_link "a0645803-3a97-da0c-e60a-49b15e47101c" "6.390 Introduction to Machine Learning (Formerly 6.036)" %}}
+## {{% resource_link "a0645803-3a97-da0c-e60a-49b15e47101c" "6.390 Introduction to Machine Learning (Formerly 6.036)" %}}
 
 *Authors:* Leslie Kaelbling, Serena Booth, Marion Boulicault, Dheekshita Kumar, Rodrigo Ochigame, Tess Smidt
 
@@ -51,17 +51,29 @@ The course has weekly labs, in which students work in pairs and have an opportun
 
 *Keywords:* machine learning; bias and fairness in machine learning; data bias; model bias
 
-### MIT Case Studies in Social and Ethical Responsibilities of Computing
+## MIT Case Studies in Social and Ethical Responsibilities of Computing
 
 Brief, specially commissioned and peer-reviewed cases intended to be effective for undergraduate instruction across a range of classes and fields of study. Some cases are paired with active learning projects developed by students at MIT and reviewed by faculty and senior researchers.
 
-#### Winter 2023
+### Summer 2024
 
-[**Emotional Attachment to AI Companions and European Law**](https://mit-serc.pubpub.org/pub/ai-companions-eu-law/)**, by Claire Boine (University of Ottowa)**
+[**Complete Delete: In Practice, Clicking "Delete" Rarely Deletes. Should it?**](https://mit-serc.pubpub.org/pub/fesqymtr?readingCollection=ca73f7c0)**, by Simson Garfinkel**
+
+*Keywords:* crypto shredding, cryptographic erasure, data governance, law enforcement, mass storage, operating systems, privacy, remnant data, sexting, system design, usability
+
+### Summer 2023
+
+[**To Search and Protect? Content Moderation and Platform Governance of Explicit Image Material**](https://mit-serc.pubpub.org/pub/701yvdbh?readingCollection=e057132a)**, by Mitali Thakor, Sumaiya Sabnam, Ransho Ueno, and Ella Zaslow**
+
+*Keywords:* content moderation, CSAM, platform governance, privacy, search and seizure 
+
+### Winter 2023
+
+[**Emotional Attachment to AI Companions and European Law**](https://mit-serc.pubpub.org/pub/ai-companions-eu-law/)**, by Claire Boine (University of Ottawa)**
 
 *Keywords:* AI law, AI companions, human-machine interactions, data privacy, consumer protection
 
-#### Summer 2022
+### Summer 2022
 
 [**"Porsche Girl": When a Dead Body Becomes a Meme**](https://mit-serc.pubpub.org/pub/porsche-girl/)**, by Nadia de Vries (University of Amsterdam)**
 
@@ -71,7 +83,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords*:  user data privacy, student data, contextual integrity, educational technology, children's rights, surveillance
 
-#### Winter 2022
+### Winter 2022
 
 [**Differential Privacy and the 2020 US Census**](https://mit-serc.pubpub.org/pub/differential-privacy-2020-us-census/release/1)**, by Simson Garfinkel (George Washington University)**
 
@@ -81,7 +93,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* human-subjects research, informed consent, institutional review boards, big data
 
-#### Summer 2021
+### Summer 2021
 
 [**Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User”**](https://mit-serc.pubpub.org/pub/identity-advertising-and-algorithmic-targeting/release/2)**, by Tanya Kant (University of Sussex)**
 
@@ -91,7 +103,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* facial recognition, Chinese law, social media
 
-#### Winter 2021
+### Winter 2021
 
 [**The Bias in the Machine: Facial Recognition Technology and Racial Disparities**](https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readingCollection=40dca7f1)**, by Sidney Perkowitz (Emory University)**
 
@@ -101,9 +113,9 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* user data privacy, technology in norm enforcement, facial recognition, mass surveillance, mass scraping of public data
 
-### Active Learning Projects Developed at MIT
+## Active Learning Projects Developed at MIT
 
-#### {{% resource_link "e64ac4d2-9c8c-a46c-929a-4f9414fb071b" "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} {{% resource_link "1ac96d82-3bf0-485a-cf3d-0aafabb52d43" "(DOCX - 3.2MB)" %}}
+### {{% resource_link "e64ac4d2-9c8c-a46c-929a-4f9414fb071b" "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} {{% resource_link "1ac96d82-3bf0-485a-cf3d-0aafabb52d43" "(DOCX - 3.2MB)" %}}
 
 An exercise to explore the ethical implications of digital advertising, grounded in the functionalities, data, and interfaces driving ad systems in the modern era. This lab focuses on Facebook’s Ads Manager.
 

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mit_restll008_6-031_moral.pdf
+file: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/mit_restll008_6-031_moral.pdf
 file_size: 161945
 file_type: application/pdf
 image_metadata:

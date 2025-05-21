@@ -11,7 +11,7 @@ uid: 17e1fff5-e25b-6a04-922e-1cd9935bbd5a
 video_metadata:
   youtube_id: null
 ---
-### {{% resource_link "a0645803-3a97-da0c-e60a-49b15e47101c" "6.390 Introduction to Machine Learning (Formerly 6.036)" %}}
+## {{% resource_link "a0645803-3a97-da0c-e60a-49b15e47101c" "6.390 Introduction to Machine Learning (Formerly 6.036)" %}}
 
 *Authors:* Leslie Kaelbling, Serena Booth, Marion Boulicault, Dheekshita Kumar, Rodrigo Ochigame, Tess Smidt
 
@@ -23,7 +23,7 @@ The course has weekly labs, in which students work in pairs and have an opportun
 
 *Keywords:* machine learning; bias and fairness in machine learning; data bias; model bias
 
-### {{% resource_link "e973e803-f498-7fee-0427-c3ab9df01ebf" "6.864 Quantitative Methods for Natural Language Processing" %}}
+## {{% resource_link "e973e803-f498-7fee-0427-c3ab9df01ebf" "6.864 Quantitative Methods for Natural Language Processing" %}}
 
 *Authors:* Jacob Andreas, Catherine D'Ignazio, Harini Suresh
 
@@ -37,7 +37,7 @@ The course has weekly labs, in which students work in pairs and have an opportun
 - What its limitations might be
 - What the data should and should not be used for
 
-### {{% resource_link "c106a3d8-c781-41ea-a0ca-66d8a25cf845" "6.031 Software Construction" %}}
+## {{% resource_link "c106a3d8-c781-41ea-a0ca-66d8a25cf845" "6.031 Software Construction" %}}
 
 *Author:* Rob Miller, Abby Jaques
 
@@ -51,11 +51,17 @@ The course has weekly labs, in which students work in pairs and have an opportun
 - What are the main harms it will or may cause, and to whom?
 - How could you maximize the benefits and minimize the harms, and ensure that they are distributed fairly?
 
-### MIT Case Studies in Social and Ethical Responsibilities of Computing
+## MIT Case Studies in Social and Ethical Responsibilities of Computing
 
 Brief, specially commissioned and peer-reviewed cases intended to be effective for undergraduate instruction across a range of classes and fields of study.
 
-#### Winter 2023
+### Summer 2023
+
+[**Pretrial Risk Assessment on the Ground: Algorithms, Judgments, Meaning, and Policy**](https://mit-serc.pubpub.org/pub/czviu6qc?readingCollection=e057132a)**, by Cristopher Moore, Elise Ferguson, and Paul Guerin**
+
+*Keywords:* risk assessment, pretrial detention, algorithmic fairness, criminal justice reform
+
+### Winter 2023
 
 [**Algorithmic Fairness in Chest X-ray Diagnosis: A Case Study**](https://mit-serc.pubpub.org/pub/algorithmic-chest/)**, by Haoran Zhang, Thomas Hartvigsen, and Marzyeh Ghassemi (MIT)**
 
@@ -69,13 +75,13 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* social media, social epistemology, Twitter, gamification, value capture, technology ethics
 
-#### Summer 2022
+### Summer 2022
 
 [**Patenting Bias: Algorithmic Race and Ethnicity Classifications, Proprietary Rights, and Public Data**](https://mit-serc.pubpub.org/pub/patenting-bias/)**, by Tiffany Nichols (Harvard University)**
 
 *Keywords*: racial and ethnic classifications, algorithmic bias, patents, public data
 
-#### Winter 2022
+### Winter 2022
 
 [**Differential Privacy and the 2020 US Census**](https://mit-serc.pubpub.org/pub/differential-privacy-2020-us-census/release/1)**, by Simson Garfinkel (George Washington University)**
 
@@ -85,7 +91,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* redistricting, algorithms, race, politics, elections
 
-#### Summer 2021
+### Summer 2021
 
 [**Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle**](https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/2)**, by Harini Suresh and John Guttag**
 
