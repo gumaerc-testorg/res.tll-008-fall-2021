@@ -11,7 +11,7 @@ uid: d3d17eb1-05db-0d7b-d44a-25f575d31c08
 video_metadata:
   youtube_id: null
 ---
-### {{% resource_link "aa5524bd-44ac-a6cd-4acb-ef45ca9582d4" "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" %}}
+## {{% resource_link "aa5524bd-44ac-a6cd-4acb-ef45ca9582d4" "STS.012/STS.008 Science in Action: Technologies and Controversies in Everyday Life" %}}
 
 *Author:* Dwai Banerjee
 
@@ -25,7 +25,7 @@ video_metadata:
 - To discuss whether they believe existing rights to be adequate
 - To examine whether current ethical standards (such as those instituted by the GDPR) sufficiently protect their rights (as they exist or as they believe should exist).
 
-### {{% resource_link "58dc5161-7b67-4da9-bb10-54db58fd012c" "17.46 U.S. National Security Policy" %}}
+## {{% resource_link "58dc5161-7b67-4da9-bb10-54db58fd012c" "17.46 U.S. National Security Policy" %}}
 
 *Authors:* Erik Lin-Greenberg, Lily Tsai
 
@@ -35,13 +35,19 @@ video_metadata:
 
 *Module Goals:* A scenario-based end-of-semester exercise for an MIT undergraduate political science course, implemented over two 80 min classes. The scenario was intended to provide students with an opportunity to apply core class concepts, which included an understanding of the interagency process, the various actors involved in making and implementing national security policy, the law of armed conflict/international law, and the changing character of international crises.
 
-### MIT Case Studies in Social and Ethical Responsibilities of Computing
+## MIT Case Studies in Social and Ethical Responsibilities of Computing
 
 Brief, specially commissioned and peer-reviewed cases intended to be effective for undergraduate instruction across a range of classes and fields of study.
 
-#### Winter 2023
+### Summer 2023
 
-[**Emotional Attachment to AI Companions and European Law**](https://mit-serc.pubpub.org/pub/ai-companions-eu-law/)**, by Claire Boine (University of Ottowa)**
+[**Pretrial Risk Assessment on the Ground: Algorithms, Judgments, Meaning, and Policy**](https://mit-serc.pubpub.org/pub/czviu6qc?readingCollection=e057132a)**, by Cristopher Moore, Elise Ferguson, and Paul Guerin**
+
+*Keywords:* risk assessment, pretrial detention, algorithmic fairness, criminal justice reform
+
+### Winter 2023
+
+[**Emotional Attachment to AI Companions and European Law**](https://mit-serc.pubpub.org/pub/ai-companions-eu-law/)**, by Claire Boine (University of Ottawa)**
 
 *Keywords:* AI law, AI companions, human-machine interactions, data privacy, consumer protection 
 
@@ -49,7 +55,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* data-driven decision-making, rights and duties, individualization, uncertainty, harm
 
-#### Summer 2022
+### Summer 2022
 
 [**"Porsche Girl": When a Dead Body Becomes a Meme**](https://mit-serc.pubpub.org/pub/porsche-girl/)**, by Nadia de Vries (University of Amsterdam)**
 
@@ -63,7 +69,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords*: user data privacy, student data, contextual integrity, educational technology, children's rights, surveillance
 
-#### Winter 2022
+### Winter 2022
 
 [**Differential Privacy and the 2020 US Census**](https://mit-serc.pubpub.org/pub/differential-privacy-2020-us-census/release/1)**, by Simson Garfinkel (George Washington University)**
 
@@ -81,7 +87,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* redistricting, algorithms, race, politics, elections
 
-#### Summer 2021
+### Summer 2021
 
 [**Wrestling with Killer Robots: The Benefits and Challenges of Artificial Intelligence for National Security**](https://mit-serc.pubpub.org/pub/wrestling-with-killer-robots/release/2)**, by Erik Lin-Greenberg**
 
@@ -91,7 +97,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords*: facial recognition, Chinese law, social media
 
-#### Winter 2021
+### Winter 2021
 
 [**The Case of the Nosy Neighbors**](https://mit-serc.pubpub.org/pub/nosy-neighbors/release/2?readingCollection=40dca7f1)**, by Johanna Gunawan and Woodrow Hartzog (Northeastern University)**
 
