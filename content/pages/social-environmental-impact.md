@@ -11,7 +11,7 @@ uid: c511e1f7-485e-7684-30b2-054190e10b7d
 video_metadata:
   youtube_id: null
 ---
-### {{% resource_link "1232f891-70b9-433b-b458-96ecfeaae254" "17.806 Quantitative Research Methods IV: Advanced Topics" %}}
+## {{% resource_link "1232f891-70b9-433b-b458-96ecfeaae254" "17.806 Quantitative Research Methods IV: Advanced Topics" %}}
 
 *Author:* In Song Kim 
 
@@ -21,13 +21,33 @@ video_metadata:
 
 *Module Goals:* This problem set explores how/whether policing against citizens and against racial minorities affects political behavior by leveraging a variety of data sources available online, including micro-level administrative data on policing.
 
-### MIT Case Studies in Social and Ethical Responsibilities of Computing
+## {{% resource_link "58ebf2bb-b22e-418b-a6ea-6934c70d99ec" "Considered Design Cards" %}}
+
+*Authors:* Mikaela Springsteen, Madhurima Das, Swati Gupta
+
+The activities which these cards contain are designed to subvert expectations and elicit conversation regarding the social and ethical responsibilities associated with design. They are organized into five categories: inputs, processes, outputs, feedback loops, and ecosystems, each of which focuses on a different part of the design or product lifecycle. 
+
+These cards are intended to help foster in users a creative and flexible approach to the potential impacts of a design process, rather than treating any such outcomes or impacts as a formulaic "check-box" aspect of design. Indeed, flexibility is built into the very nature of the cards themselves—these cards can be used in a variety of settings, and while the cards may have specific time and material requirements listed, they can often be adapted and "remixed" to suit specific learning environments and contexts. 
+
+## MIT Case Studies in Social and Ethical Responsibilities of Computing
 
 Brief, specially commissioned and peer-reviewed cases intended to be effective for undergraduate instruction across a range of classes and fields of study.
 
-#### Winter 2023
+### Summer 2024
 
-[**Emotional Attachment to AI Companions and European Law**](https://mit-serc.pubpub.org/pub/ai-companions-eu-law/)**, by Claire Boine (University of Ottowa)**
+[**From Mining to E-waste: The Environmental and Climate Justice Implications of the Electronics Hardware Life Cycle**](https://mit-serc.pubpub.org/pub/w9ht6hue?readingCollection=ca73f7c0)**, by Lelia Hampton, Madeline Schlegel, Ellie Bultena, Jasmin Liu, Anastasia Dunca, Mrinalini Singha, Sungmoon Lim, Lauren Higgins, and Christopher Rabe**
+
+*Keywords:* environmental justice, climate justice, electronics, mining, manufacturing, e-waste, life cycle assessment, circular economy
+
+### Winter 2024
+
+[**AI’s Regimes of Representation: A Community-Centered Study of Text-to-Image Models in South Asia**](https://mit-serc.pubpub.org/pub/bfw5tscj?readingCollection=65a1a268)**, by Rida Qadri, Renee Shelby, Cynthia L. Bennett, and Remi Denton**
+
+*Keywords:* human-centered AI, AI harms, text-to-image models, generative AI, non-Western AI fairness, South Asia
+
+### Winter 2023
+
+[**Emotional Attachment to AI Companions and European Law**](https://mit-serc.pubpub.org/pub/ai-companions-eu-law/)**, by Claire Boine (University of Ottawa)**
 
 *Keywords:* AI law, AI companions, human-machine interactions, data privacy, consumer protection 
 
@@ -35,15 +55,15 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* social media, social epistemology, Twitter, gamification, value capture, technology ethics
 
-#### Summer 2022
+### Summer 2022
 
 [**Patenting Bias: Algorithmic Race and Ethnicity Classifications, Proprietary Rights, and Public Data**](https://mit-serc.pubpub.org/pub/patenting-bias/)**, by Tiffany Nichols (Harvard University)**
 
 *Keywords*: racial and ethnic classifications, algorithmic bias, patents, public data
 
-#### Winter 2022
+### Winter 2022
 
-[**The Cloud is Material: On the Environmental Impacts of Computation and Data Storage**](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)**, by Steven Gonzalez Monserrate (MIT)**
+[**The Cloud Is Material: On the Environmental Impacts of Computation and Data Storage**](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)**, by Steven Gonzalez Monserrate (MIT)**
 
 *Keywords:* climate change, Anthropocene, data centers, data storage, digital ecology, materiality of computation, sustainable computing
 
@@ -51,7 +71,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* redistricting, algorithms, race, politics, elections
 
-#### Summer 2021
+### Summer 2021
 
 [**Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle**](https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/2)**, by Harini Suresh and John Guttag**
 

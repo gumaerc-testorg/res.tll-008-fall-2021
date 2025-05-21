@@ -45,7 +45,7 @@ The course has weekly labs, in which students work in pairs and have an opportun
 
 *Keywords:* machine learning; bias and fairness in machine learning; data bias; model bias
 
-### {{% resource_link "c106a3d8-c781-41ea-a0ca-66d8a25cf845" "6.031 Software Construction" %}}
+## {{% resource_link "c106a3d8-c781-41ea-a0ca-66d8a25cf845" "6.031 Software Construction" %}}
 
 *Author:* Rob Miller, Abby Jaques 
 
@@ -57,13 +57,37 @@ The course has weekly labs, in which students work in pairs and have an opportun
 
 - What are the main benefits it will or may provide, and to whom?
 - What are the main harms it will or may cause, and to whom?
-- How could you maximize the benefits and minimize the harms, and ensure that they are distributed fairly?                                             
+- How could you maximize the benefits and minimize the harms, and ensure that they are distributed fairly?
 
-### MIT Case Studies in Social and Ethical Responsibilities of Computing
+## {{% resource_link "58ebf2bb-b22e-418b-a6ea-6934c70d99ec" "Considered Design Cards" %}}
+
+*Authors:* Mikaela Springsteen, Madhurima Das, Swati Gupta
+
+The activities which these cards contain are designed to subvert expectations and elicit conversation regarding the social and ethical responsibilities associated with design. They are organized into five categories: inputs, processes, outputs, feedback loops, and ecosystems, each of which focuses on a different part of the design or product lifecycle. 
+
+These cards are intended to help foster in users a creative and flexible approach to the potential impacts of a design process, rather than treating any such outcomes or impacts as a formulaic "check-box" aspect of design. Indeed, flexibility is built into the very nature of the cards themselves—these cards can be used in a variety of settings, and while the cards may have specific time and material requirements listed, they can often be adapted and ‘remixed’ to suit specific learning environments and contexts.                                              
+
+## MIT Case Studies in Social and Ethical Responsibilities of Computing
 
 Brief, specially commissioned and peer-reviewed cases intended to be effective for undergraduate instruction across a range of classes and fields of study. Some cases are paired with active learning projects developed by students at MIT and reviewed by faculty and senior researchers.
 
-#### Winter 2023
+### Summer 2024
+
+[**Complete Delete: In Practice, Clicking "Delete" Rarely Deletes. Should it?**](https://mit-serc.pubpub.org/pub/fesqymtr?readingCollection=ca73f7c0)**, by Simson Garfinkel**
+
+*Keywords:* crypto shredding, cryptographic erasure, data governance, law enforcement, mass storage, operating systems, privacy, remnant data, sexting, system design, usability
+
+### Winter 2024
+
+[**Integrals and Integrity: Generative AI Tries to Learn Cosmology**](https://mit-serc.pubpub.org/pub/o07xymoa?readingCollection=65a1a268)**, by Bruce A. Bassett**
+
+*Keywords:* artificial intelligence, AI agents, generative AI, cosmology, dark energy
+
+[**AI’s Regimes of Representation: A Community-Centered Study of Text-to-Image Models in South Asia**](https://mit-serc.pubpub.org/pub/bfw5tscj?readingCollection=65a1a268)**, by Rida Qadri, Renee Shelby, Cynthia L. Bennett, and Remi Denton**
+
+*Keywords:* human-centered AI, AI harms, text-to-image models, generative AI, non-Western AI fairness, South Asia
+
+### Winter 2023
 
 [**Algorithmic Fairness in Chest X-ray Diagnosis: A Case Study**](https://mit-serc.pubpub.org/pub/algorithmic-chest/)**, by Haoran Zhang, Thomas Hartvigsen, and Marzyeh Ghassemi (MIT)**
 
@@ -73,7 +97,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* data-driven decision-making, rights and duties, individualization, uncertainty, harm
 
-#### Summer 2022
+### Summer 2022
 
 [**"Porsche Girl": When a Dead Body Becomes a Meme**](https://mit-serc.pubpub.org/pub/porsche-girl/)**, by Nadia de Vries (University of Amsterdam)**
 
@@ -83,13 +107,13 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords*: user data privacy, student data, contextual integrity, educational technology, children's rights, surveillance
 
-#### Winter 2022
+### Winter 2022
 
 [**Protections for Human Subjects in Research: Old Models, New Needs?**](https://mit-serc.pubpub.org/pub/protections-for-human-subjects/release/1)**, by Laura Stark (Vanderbilt University)**
 
 *Keywords:* human-subjects research, informed consent, institutional review boards, big data
 
-#### Summer 2021
+### Summer 2021
 
 [**Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source**](https://mit-serc.pubpub.org/pub/hacking-technology-hacking-communities/release/2)**, by Christina Dunbar-Hester (University of Southern California)**
 
@@ -99,7 +123,7 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* targeting, advertising, algorithms, identity, profiling
 
-#### Winter 2021
+### Winter 2021
 
 [**Who Collects the Data? A Tale of Three Maps**](https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readingCollection=40dca7f1)**, by Catherine D'Ignazio (MIT) and Lauren Klein (Emory University)**
 
@@ -109,15 +133,15 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 *Keywords:* user data privacy, technology in norm enforcement, facial recognition, mass surveillance, mass scraping of public data
 
-### Active Learning Projects Developed at MIT
+## Active Learning Projects Developed at MIT
 
-#### {{% resource_link "e64ac4d2-9c8c-a46c-929a-4f9414fb071b" "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} {{% resource_link "1ac96d82-3bf0-485a-cf3d-0aafabb52d43" "(DOCX - 3.2MB)" %}}
+### {{% resource_link "e64ac4d2-9c8c-a46c-929a-4f9414fb071b" "Active Learning Project: Exploring the Functionalities, Data and Interfaces of a Modern Online Advertising System (PDF - 1.1MB)" %}} {{% resource_link "1ac96d82-3bf0-485a-cf3d-0aafabb52d43" "(DOCX - 3.2MB)" %}}
 
 An exercise to explore the ethical implications of digital advertising, grounded in the functionalities, data, and interfaces driving ad systems in the modern era. This lab focuses on Facebook’s Ads Manager.
 
 - *Associated case study:* Kant, T. (2021). Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User.” MIT Case Studies in Social and Ethical Responsibilities of Computing, (Summer 2021). [https://doi.org/10.21428/2c646de5.929a7db6](https://doi.org/10.21428/2c646de5.929a7db6)
 
-#### {{% resource_link "17714235-e1c6-4242-08f5-db881ee8643e" "Active Learning Project: Active Learning Project on Developing Codes on Conduct (PDF)" %}} {{% resource_link "0ddc2160-f045-ce3f-896d-53ad99980c2a" "(DOCX)" %}}
+### {{% resource_link "17714235-e1c6-4242-08f5-db881ee8643e" "Active Learning Project: Active Learning Project on Developing Codes of Conduct (PDF)" %}} {{% resource_link "0ddc2160-f045-ce3f-896d-53ad99980c2a" "(DOCX)" %}}
 
 An exercise in developing a code of conduct for a team-based course in Github-hosted project repositories. 
 

@@ -2,21 +2,20 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/mitres-tll008s23_6039_markov.pdf
-file_size: 537754
+file: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/mitres_tll008_s25_cdc.pdf
+file_size: 288499
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Labs
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 'RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.390:
-  Introduction to Machine Learning, Markov Lab'
-uid: aec35f0a-b289-4b61-b030-7bd8f3aa8807
+title: Considered Design Cards (Viewing Version)
+uid: 84bd624c-ae2a-493f-bc3e-8dfbd99ac5ae
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
