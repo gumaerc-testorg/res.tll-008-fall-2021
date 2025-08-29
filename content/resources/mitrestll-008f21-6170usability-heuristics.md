@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/4308c7d65b1cf23f45f07d8bb492a2a6_MITRESTLL-008F21-6170usability-heuristics.pdf
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/4308c7d65b1cf23f45f07d8bb492a2a6_MITRESTLL-008F21-6170usability-heuristics.pdf
 file_size: 60528
 file_type: application/pdf
 image_metadata:

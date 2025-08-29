@@ -22,14 +22,12 @@ When computer science was in its infancy, programmers quickly realized that thou
 
 In this episode, Prof. D’Ignazio, Prof. Andreas, and graduate student Harini Suresh describe the principles behind their revised curriculum for the course *6.864 Quantitative Methods for Natural Language Processing*.
 
-{{< simplecast "90d6bdf6-ab2a-4716-b108-3ec6171a7972" >}}
-
- 
+{{< resource uuid="a99d1be5-89aa-4837-9fb9-99393eac970a" >}}
 
 ## Instructor Interview: Prof. Daniel Jackson and Serena Booth
 
 As Prof. Daniel Jackson sees it, software can fail its users in three ways: First, it can simply work badly, failing to meet the purpose it was intended for. Second, it may do what the user wants it to, while simultaneously accomplishing some insidious purpose that the user is unaware of. Third, it may “contribute to a computational environment that has subtly pernicious effects” on the individual or on society—effects unintended not only by the user but also by the software designer. Prof. Jackson and graduate teaching assistant Serena Booth have attempted to address these second and third types of failure by incorporating ethical considerations in their revised syllabus for Prof. Jackson and Prof. Arvind Satyanarayan’s course *6.170 Software Studio*. 
 
-In this episode, Jackson and Booth discuss concrete changes they made in their revision of 6.170, including introducing ethical concerns early in the course and sharing an ethics protocol to scaffold students’ decision-making throughout the software design process. 
+In this episode, Jackson and Booth discuss concrete changes they made in their revision of 6.170, including introducing ethical concerns early in the course and sharing an ethics protocol to scaffold students’ decision-making throughout the software design process.
 
-{{< simplecast "90d6bdf6-ab2a-4716-b108-3ec6171a7972" >}}
+{{< resource uuid="b2386802-f6cf-451b-ae66-2b66685c6528" >}}
