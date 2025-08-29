@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/3a999f0c7f4ffc4de5e2a39cfdc3fff4_MITRES-TLL008F21-6864pt2a.pdf
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/3a999f0c7f4ffc4de5e2a39cfdc3fff4_MITRES-TLL008F21-6864pt2a.pdf
 file_size: 63857
 file_type: application/pdf
 image_metadata:

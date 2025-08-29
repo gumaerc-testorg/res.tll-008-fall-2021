@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc-fall-2021/mitres-tll008s23_6039_markov.pdf
+file: /ol-ocw-studio-app/courses/res-tll-008-social-and-ethical-responsibilities-of-computing-serc/mitres-tll008s23_6039_markov.pdf
 file_size: 537754
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 'RES.TLL-008 Social and Ethical Responsibilities of Computing (SERC), 6.390:
