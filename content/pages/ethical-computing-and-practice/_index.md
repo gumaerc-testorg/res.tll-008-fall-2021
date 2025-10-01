@@ -73,63 +73,63 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ### Summer 2024
 
-[**Complete Delete: In Practice, Clicking "Delete" Rarely Deletes. Should it?**](https://mit-serc.pubpub.org/pub/fesqymtr?readingCollection=ca73f7c0)**, by Simson Garfinkel**
+{{% resource_link "322ee315-4023-42be-845b-684561bc7c7c" "**Complete Delete: In Practice, Clicking \"Delete\" Rarely Deletes. Should it?**" %}}**, by Simson Garfinkel**
 
 *Keywords:* crypto shredding, cryptographic erasure, data governance, law enforcement, mass storage, operating systems, privacy, remnant data, sexting, system design, usability
 
 ### Winter 2024
 
-[**Integrals and Integrity: Generative AI Tries to Learn Cosmology**](https://mit-serc.pubpub.org/pub/o07xymoa?readingCollection=65a1a268)**, by Bruce A. Bassett**
+{{% resource_link "8d31f29e-351b-434a-abe5-1f79242c5c49" "**Integrals and Integrity: Generative AI Tries to Learn Cosmology**" %}}**, by Bruce A. Bassett**
 
 *Keywords:* artificial intelligence, AI agents, generative AI, cosmology, dark energy
 
-[**AI’s Regimes of Representation: A Community-Centered Study of Text-to-Image Models in South Asia**](https://mit-serc.pubpub.org/pub/bfw5tscj?readingCollection=65a1a268)**, by Rida Qadri, Renee Shelby, Cynthia L. Bennett, and Remi Denton**
+{{% resource_link "a6d06ef9-4d56-4bb6-9b09-43a194ab6013" "**AI’s Regimes of Representation: A Community-Centered Study of Text-to-Image Models in South Asia**" %}}**, by Rida Qadri, Renee Shelby, Cynthia L. Bennett, and Remi Denton**
 
 *Keywords:* human-centered AI, AI harms, text-to-image models, generative AI, non-Western AI fairness, South Asia
 
 ### Winter 2023
 
-[**Algorithmic Fairness in Chest X-ray Diagnosis: A Case Study**](https://mit-serc.pubpub.org/pub/algorithmic-chest/)**, by Haoran Zhang, Thomas Hartvigsen, and Marzyeh Ghassemi (MIT)**
+{{% resource_link "55153b24-dddd-438b-8323-e587eaededb3" "**Algorithmic Fairness in Chest X-ray Diagnosis: A Case Study**" %}}**, by Haoran Zhang, Thomas Hartvigsen, and Marzyeh Ghassemi (MIT)**
 
 *Keywords:* algorithmic fairness, deep learning, medical imaging, machine learning for health care
 
-[**The Right to Be an Exception to a Data-Driven Rule**](https://mit-serc.pubpub.org/pub/right-to-be-exception/)**, by Sarah H. Cen and Manish Raghavan (MIT)**
+{{% resource_link "f8222bea-083c-4f5f-93e2-40689fc9ac15" "**The Right to Be an Exception to a Data-Driven Rule**" %}}**, by Sarah H. Cen and Manish Raghavan (MIT)**
 
 *Keywords:* data-driven decision-making, rights and duties, individualization, uncertainty, harm
 
 ### Summer 2022
 
-[**"Porsche Girl": When a Dead Body Becomes a Meme**](https://mit-serc.pubpub.org/pub/porsche-girl/)**, by Nadia de Vries (University of Amsterdam)**
+{{% resource_link "9edb8c8d-9cd8-44ac-97c2-7d35368b3c5e" "**\"Porsche Girl\": When a Dead Body Becomes a Meme**" %}}**, by Nadia de Vries (University of Amsterdam)**
 
 *Keywords*: digital death, bodies, memes, online abuse, Nikki Castouras
 
-[**Privacy and Paternalism: The Ethics of Student Data Collection**](https://mit-serc.pubpub.org/pub/privacy-and-paternalism/)**, by Kathleen Creel (Northeastern University) and Tara Dixit (Chantilly High School, Virginia)**
+{{% resource_link "369c0a4e-bde8-43cc-bd56-c1a835bbc738" "**Privacy and Paternalism: The Ethics of Student Data Collection**" %}}**, by Kathleen Creel (Northeastern University) and Tara Dixit (Chantilly High School, Virginia)**
 
 *Keywords*: user data privacy, student data, contextual integrity, educational technology, children's rights, surveillance
 
 ### Winter 2022
 
-[**Protections for Human Subjects in Research: Old Models, New Needs?**](https://mit-serc.pubpub.org/pub/protections-for-human-subjects/release/1)**, by Laura Stark (Vanderbilt University)**
+{{% resource_link "6ca156bf-380f-4b96-99c2-58069b9071c5" "**Protections for Human Subjects in Research: Old Models, New Needs?**" %}}**, by Laura Stark (Vanderbilt University)**
 
 *Keywords:* human-subjects research, informed consent, institutional review boards, big data
 
 ### Summer 2021
 
-[**Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source**](https://mit-serc.pubpub.org/pub/hacking-technology-hacking-communities/release/2)**, by Christina Dunbar-Hester (University of Southern California)**
+{{% resource_link "7a377b13-007a-4d18-b3b2-fd9363c3f8bf" "**Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source**" %}}**, by Christina Dunbar-Hester (University of Southern California)**
 
 *Keywords:* open source software, diversity and inclusion, community governance, gender, race, values in computing, codes of conduct
 
-[**Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User”**](https://mit-serc.pubpub.org/pub/identity-advertising-and-algorithmic-targeting/release/2)**, by Tanya Kant (University of Sussex)**
+{{% resource_link "9580dc99-ed55-4099-a537-b028a1d6bdeb" "**Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User”**" %}}**, by Tanya Kant (University of Sussex)**
 
 *Keywords:* targeting, advertising, algorithms, identity, profiling
 
 ### Winter 2021
 
-[**Who Collects the Data? A Tale of Three Maps**](https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readingCollection=40dca7f1)**, by Catherine D'Ignazio (MIT) and Lauren Klein (Emory University)**
+{{% resource_link "f453bf58-3954-4c5b-8df8-3a6544a8ed25" "**Who Collects the Data? A Tale of Three Maps**" %}}**, by Catherine D'Ignazio (MIT) and Lauren Klein (Emory University)**
 
 *Keywords:* redlining, social inequality and oppression, missing data, counterdata, matrix of domination, who questions
 
-[**The Case of the Nosy Neighbors**](https://mit-serc.pubpub.org/pub/nosy-neighbors/release/2?readingCollection=40dca7f1)**, by Johanna Gunawan and Woodrow Hartzog (Northeastern University)**
+{{% resource_link "e24bbc9c-a963-42c9-bce3-ec7bf49962e2" "**The Case of the Nosy Neighbors**" %}}**, by Johanna Gunawan and Woodrow Hartzog (Northeastern University)**
 
 *Keywords:* user data privacy, technology in norm enforcement, facial recognition, mass surveillance, mass scraping of public data
 
@@ -139,10 +139,10 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 An exercise to explore the ethical implications of digital advertising, grounded in the functionalities, data, and interfaces driving ad systems in the modern era. This lab focuses on Facebook’s Ads Manager.
 
-- *Associated case study:* Kant, T. (2021). Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User.” MIT Case Studies in Social and Ethical Responsibilities of Computing, (Summer 2021). [https://doi.org/10.21428/2c646de5.929a7db6](https://doi.org/10.21428/2c646de5.929a7db6)
+- *Associated case study:* Kant, T. (2021). Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User.” MIT Case Studies in Social and Ethical Responsibilities of Computing, (Summer 2021). {{% resource_link "6a4d578e-1011-43af-8c69-84f7a4dd8964" "https://doi.org/10.21428/2c646de5.929a7db6" %}}
 
 ### {{% resource_link "17714235-e1c6-4242-08f5-db881ee8643e" "Active Learning Project: Active Learning Project on Developing Codes of Conduct (PDF)" %}} {{% resource_link "0ddc2160-f045-ce3f-896d-53ad99980c2a" "(DOCX)" %}}
 
 An exercise in developing a code of conduct for a team-based course in Github-hosted project repositories. 
 
-- *Associated case study:* Dunbar-Hester, C. (2021). Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source. MIT Case Studies in Social and Ethical Responsibilities of Computing, Summer 2021. [https://doi.org/10.21428/2c646de5.07bc6308](https://doi.org/10.21428/2c646de5.07bc6308)
+- *Associated case study:* Dunbar-Hester, C. (2021). Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source. MIT Case Studies in Social and Ethical Responsibilities of Computing, Summer 2021. {{% resource_link "f1e773b7-7584-4425-80a9-10efdf65873f" "https://doi.org/10.21428/2c646de5.07bc6308" %}}

@@ -50,14 +50,14 @@ _Part 3:_ Pick one of the listed readings to read & respond to. See assignment 
 Additional Reading:
 -------------------
 
-Paullada, Amandalynne, Inioluwa Deborah Raji, et al. "[Data and Its (Dis) Contents: A Survey of Dataset Development and Use in Machine Learning Sesearch](https://arxiv.org/abs/2012.05345)." arXiv preprint arXiv:2012.05345 (2020).
+Paullada, Amandalynne, Inioluwa Deborah Raji, et al. "{{% resource_link "87b79e53-de94-4b8f-b084-382a20f7a4c6" "Data and Its (Dis) Contents: A Survey of Dataset Development and Use in Machine Learning Sesearch" %}}." arXiv preprint arXiv:2012.05345 (2020).
 
-D'Ignazio, Catherine and Lauren Klein. "[What Gets Counted Counts](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)." Chapter 4 in _Data Feminism_. March 16, 2020. 
+D'Ignazio, Catherine and Lauren Klein. "{{% resource_link "d420d8dc-f83a-4015-a7ae-949b1f519d22" "What Gets Counted Counts" %}}." Chapter 4 in _Data Feminism_. March 16, 2020. 
 
-Gebru, Timnit, Jamie Morgenstern, et al. "[Datasheets for datasets (PDF - 2.1MB)](https://arxiv.org/pdf/1803.09010.pdf)." arXiv preprint arXiv:1803.09010 (2018).
+Gebru, Timnit, Jamie Morgenstern, et al. "{{% resource_link "62182cc5-80da-4cc6-a5e3-db7035b72d42" "Datasheets for datasets (PDF - 2.1MB)" %}}." arXiv preprint arXiv:1803.09010 (2018).
 
-Bhuiyan, M. Momen, Amy X. Zhang, Connie Moon Sehat, and Tanushree Mitra. "[Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria (PDF)](https://assets.ctfassets.net/tlowcqj4pb76/3TXIYQf54lxMF8ylLqyPuE/ad0222fd424eac7d1764a404a68f9212/Investigating_Differences_in_Crowdsourced_News_Credibility_Assessment_Raters_Tasks_and_Expert_Criteria.pdf)." _Proceedings of the ACM on Human-Computer Interaction_ 4, no. CSCW2 (2020): 1-26.
+Bhuiyan, M. Momen, Amy X. Zhang, Connie Moon Sehat, and Tanushree Mitra. "{{% resource_link "28ef3c09-dda4-4f9d-9eb0-9f547e4d7ecd" "Investigating Differences in Crowdsourced News Credibility Assessment: Raters, Tasks, and Expert Criteria (PDF)" %}}." _Proceedings of the ACM on Human-Computer Interaction_ 4, no. CSCW2 (2020): 1-26.
 
-Metz, Cade. "[A.I. is Learning From Humans. Many Humans](https://www.nytimes.com/2019/08/16/technology/ai-humans.html)." _The New York Times_. Aug. 16, 2019.
+Metz, Cade. "{{% resource_link "2aa971b2-825d-48a0-a1b8-6180e375f1c5" "A.I. is Learning From Humans. Many Humans" %}}." _The New York Times_. Aug. 16, 2019.
 
-Kaye, Kate. "[These Companies Claim to Provide 'Fair-Trade' Data Work. Do They?](https://www.technologyreview.com/2019/08/07/133845/cloudfactory-ddd-samasource-imerit-impact-sourcing-companies-for-data-annotation/)" _Technology Review_. Aug. 7, 2019.
+Kaye, Kate. "{{% resource_link "9a0ca937-799f-4549-af8b-67249c602c0c" "These Companies Claim to Provide 'Fair-Trade' Data Work. Do They?" %}}" _Technology Review_. Aug. 7, 2019.
