@@ -57,59 +57,59 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ### Summer 2024
 
-[**Complete Delete: In Practice, Clicking "Delete" Rarely Deletes. Should it?**](https://mit-serc.pubpub.org/pub/fesqymtr?readingCollection=ca73f7c0)**, by Simson Garfinkel**
+{{% resource_link "322ee315-4023-42be-845b-684561bc7c7c" "**Complete Delete: In Practice, Clicking \"Delete\" Rarely Deletes. Should it?**" %}}**, by Simson Garfinkel**
 
 *Keywords:* crypto shredding, cryptographic erasure, data governance, law enforcement, mass storage, operating systems, privacy, remnant data, sexting, system design, usability
 
 ### Summer 2023
 
-[**To Search and Protect? Content Moderation and Platform Governance of Explicit Image Material**](https://mit-serc.pubpub.org/pub/701yvdbh?readingCollection=e057132a)**, by Mitali Thakor, Sumaiya Sabnam, Ransho Ueno, and Ella Zaslow**
+{{% resource_link "e27f4e31-03c9-4d32-acf6-f691c43c230a" "**To Search and Protect? Content Moderation and Platform Governance of Explicit Image Material**" %}}**, by Mitali Thakor, Sumaiya Sabnam, Ransho Ueno, and Ella Zaslow**
 
 *Keywords:* content moderation, CSAM, platform governance, privacy, search and seizure 
 
 ### Winter 2023
 
-[**Emotional Attachment to AI Companions and European Law**](https://mit-serc.pubpub.org/pub/ai-companions-eu-law/)**, by Claire Boine (University of Ottawa)**
+{{% resource_link "9440d2f2-10b1-41fa-9752-fec17fc4f253" "**Emotional Attachment to AI Companions and European Law**" %}}**, by Claire Boine (University of Ottawa)**
 
 *Keywords:* AI law, AI companions, human-machine interactions, data privacy, consumer protection
 
 ### Summer 2022
 
-[**"Porsche Girl": When a Dead Body Becomes a Meme**](https://mit-serc.pubpub.org/pub/porsche-girl/)**, by Nadia de Vries (University of Amsterdam)**
+{{% resource_link "9edb8c8d-9cd8-44ac-97c2-7d35368b3c5e" "**\"Porsche Girl\": When a Dead Body Becomes a Meme**" %}}**, by Nadia de Vries (University of Amsterdam)**
 
 *Keywords*: digital death, bodies, memes, online abuse, Nikki Castouras
 
-[**Privacy and Paternalism: The Ethics of Student Data Collection**](https://mit-serc.pubpub.org/pub/privacy-and-paternalism/)**, by Kathleen Creel (Northeastern University) and Tara Dixit (Chantilly High School, Virginia)**
+{{% resource_link "369c0a4e-bde8-43cc-bd56-c1a835bbc738" "**Privacy and Paternalism: The Ethics of Student Data Collection**" %}}**, by Kathleen Creel (Northeastern University) and Tara Dixit (Chantilly High School, Virginia)**
 
 *Keywords*:  user data privacy, student data, contextual integrity, educational technology, children's rights, surveillance
 
 ### Winter 2022
 
-[**Differential Privacy and the 2020 US Census**](https://mit-serc.pubpub.org/pub/differential-privacy-2020-us-census/release/1)**, by Simson Garfinkel (George Washington University)**
+{{% resource_link "ca2e7c52-e927-4458-83bb-0f0b025a08a8" "**Differential Privacy and the 2020 US Census**" %}}**, by Simson Garfinkel (George Washington University)**
 
 *Keywords:* differential privacy, disclosure avoidance, statistical disclosure limitation, US Census Bureau
 
-[**Protections for Human Subjects in Research: Old Models, New Needs?**](https://mit-serc.pubpub.org/pub/protections-for-human-subjects/release/1)**, by Laura Stark (Vanderbilt University)**
+{{% resource_link "6ca156bf-380f-4b96-99c2-58069b9071c5" "**Protections for Human Subjects in Research: Old Models, New Needs?**" %}}**, by Laura Stark (Vanderbilt University)**
 
 *Keywords:* human-subjects research, informed consent, institutional review boards, big data
 
 ### Summer 2021
 
-[**Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User”**](https://mit-serc.pubpub.org/pub/identity-advertising-and-algorithmic-targeting/release/2)**, by Tanya Kant (University of Sussex)**
+{{% resource_link "9580dc99-ed55-4099-a537-b028a1d6bdeb" "**Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your “Ideal User”**" %}}**, by Tanya Kant (University of Sussex)**
 
 *Keywords:* targeting, advertising, algorithms, identity, profiling
 
-[**Public Debate on Facial Recognition Technologies in China**](https://mit-serc.pubpub.org/pub/public-debate-on-facial-recognition-technologies-in-china/release/1)**, by Tristan G. Brown, Alexander Statman, and Celine Sui**
+{{% resource_link "2d0f7cc8-538f-49e2-bf26-e6a77309041c" "**Public Debate on Facial Recognition Technologies in China**" %}}**, by Tristan G. Brown, Alexander Statman, and Celine Sui**
 
 *Keywords:* facial recognition, Chinese law, social media
 
 ### Winter 2021
 
-[**The Bias in the Machine: Facial Recognition Technology and Racial Disparities**](https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readingCollection=40dca7f1)**, by Sidney Perkowitz (Emory University)**
+{{% resource_link "f453bf58-3954-4c5b-8df8-3a6544a8ed25" "**The Bias in the Machine: Facial Recognition Technology and Racial Disparities**" %}}**, by Sidney Perkowitz (Emory University)**
 
 *Keywords:* facial recognition, justice system, racial equity, false arrest
 
-[**The Case of the Nosy Neighbors**](https://mit-serc.pubpub.org/pub/nosy-neighbors/release/2?readingCollection=40dca7f1)**, by Johanna Gunawan and Woodrow Hartzog (Northeastern University)**
+{{% resource_link "e24bbc9c-a963-42c9-bce3-ec7bf49962e2" "**The Case of the Nosy Neighbors**" %}}**, by Johanna Gunawan and Woodrow Hartzog (Northeastern University)**
 
 *Keywords:* user data privacy, technology in norm enforcement, facial recognition, mass surveillance, mass scraping of public data
 
@@ -119,4 +119,4 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 An exercise to explore the ethical implications of digital advertising, grounded in the functionalities, data, and interfaces driving ad systems in the modern era. This lab focuses on Facebook’s Ads Manager.
 
-- *Associated case study:* Kant, T. (2021). "Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your 'Ideal User.'" MIT Case Studies in Social and Ethical Responsibilities of Computing, Summer 2021. [https://doi.org/10.21428/2c646de5.929a7db6](https://doi.org/10.21428/2c646de5.929a7db6)
+- *Associated case study:* Kant, T. (2021). "Identity, Advertising, and Algorithmic Targeting: Or How (Not) to Target Your 'Ideal User.'" MIT Case Studies in Social and Ethical Responsibilities of Computing, Summer 2021. {{% resource_link "6a4d578e-1011-43af-8c69-84f7a4dd8964" "https://doi.org/10.21428/2c646de5.929a7db6" %}}
