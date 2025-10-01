@@ -35,52 +35,52 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ### Summer 2024
 
-[**From Mining to E-waste: The Environmental and Climate Justice Implications of the Electronics Hardware Life Cycle**](https://mit-serc.pubpub.org/pub/w9ht6hue?readingCollection=ca73f7c0)**, by Lelia Hampton, Madeline Schlegel, Ellie Bultena, Jasmin Liu, Anastasia Dunca, Mrinalini Singha, Sungmoon Lim, Lauren Higgins, and Christopher Rabe**
+{{% resource_link "a65f0a82-f041-486d-a6e0-d18adb71f2a9" "**From Mining to E-waste: The Environmental and Climate Justice Implications of the Electronics Hardware Life Cycle**" %}}**, by Lelia Hampton, Madeline Schlegel, Ellie Bultena, Jasmin Liu, Anastasia Dunca, Mrinalini Singha, Sungmoon Lim, Lauren Higgins, and Christopher Rabe**
 
 *Keywords:* environmental justice, climate justice, electronics, mining, manufacturing, e-waste, life cycle assessment, circular economy
 
 ### Winter 2024
 
-[**AI’s Regimes of Representation: A Community-Centered Study of Text-to-Image Models in South Asia**](https://mit-serc.pubpub.org/pub/bfw5tscj?readingCollection=65a1a268)**, by Rida Qadri, Renee Shelby, Cynthia L. Bennett, and Remi Denton**
+{{% resource_link "a6d06ef9-4d56-4bb6-9b09-43a194ab6013" "**AI’s Regimes of Representation: A Community-Centered Study of Text-to-Image Models in South Asia**" %}}**, by Rida Qadri, Renee Shelby, Cynthia L. Bennett, and Remi Denton**
 
 *Keywords:* human-centered AI, AI harms, text-to-image models, generative AI, non-Western AI fairness, South Asia
 
 ### Winter 2023
 
-[**Emotional Attachment to AI Companions and European Law**](https://mit-serc.pubpub.org/pub/ai-companions-eu-law/)**, by Claire Boine (University of Ottawa)**
+{{% resource_link "9440d2f2-10b1-41fa-9752-fec17fc4f253" "**Emotional Attachment to AI Companions and European Law**" %}}**, by Claire Boine (University of Ottawa)**
 
 *Keywords:* AI law, AI companions, human-machine interactions, data privacy, consumer protection 
 
-[**Twitter Gamifies the Conversation**](https://mit-serc.pubpub.org/pub/twitter-conversation/)**, by C. Thi Nguyen (University of Utah), Meica Magnani (Northeastern University), and Susan Kennedy (Santa Clara University)**
+{{% resource_link "6fd63ea6-0993-4018-a7b3-931de506766c" "**Twitter Gamifies the Conversation**" %}}**, by C. Thi Nguyen (University of Utah), Meica Magnani (Northeastern University), and Susan Kennedy (Santa Clara University)**
 
 *Keywords:* social media, social epistemology, Twitter, gamification, value capture, technology ethics
 
 ### Summer 2022
 
-[**Patenting Bias: Algorithmic Race and Ethnicity Classifications, Proprietary Rights, and Public Data**](https://mit-serc.pubpub.org/pub/patenting-bias/)**, by Tiffany Nichols (Harvard University)**
+{{% resource_link "8b6d79e4-326e-4375-960b-9f8273ea6f4f" "**Patenting Bias: Algorithmic Race and Ethnicity Classifications, Proprietary Rights, and Public Data**" %}}**, by Tiffany Nichols (Harvard University)**
 
 *Keywords*: racial and ethnic classifications, algorithmic bias, patents, public data
 
 ### Winter 2022
 
-[**The Cloud Is Material: On the Environmental Impacts of Computation and Data Storage**](https://mit-serc.pubpub.org/pub/the-cloud-is-material/release/1)**, by Steven Gonzalez Monserrate (MIT)**
+{{% resource_link "44d1d4ce-d55b-4990-8f94-2b8e83ad7349" "**The Cloud Is Material: On the Environmental Impacts of Computation and Data Storage**" %}}**, by Steven Gonzalez Monserrate (MIT)**
 
 *Keywords:* climate change, Anthropocene, data centers, data storage, digital ecology, materiality of computation, sustainable computing
 
-[**Algorithmic Redistricting and Black Representation in US Elections**](https://mit-serc.pubpub.org/pub/algorithmic-redistricting-in-us-elections/release/1)**, by Zachary Schutzman (MIT)**
+{{% resource_link "179b9622-183d-4d43-98de-3a86f998985f" "**Algorithmic Redistricting and Black Representation in US Elections**" %}}**, by Zachary Schutzman (MIT)**
 
 *Keywords:* redistricting, algorithms, race, politics, elections
 
 ### Summer 2021
 
-[**Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle**](https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/2)**, by Harini Suresh and John Guttag**
+{{% resource_link "e9bbd23e-7d8f-4e50-bd71-b5c71d9e26c1" "**Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle**" %}}**, by Harini Suresh and John Guttag**
 
 *Keywords:* fairness in machine learning, societal implications of machine learning, algorithmic bias, AI ethics
 
-[**Public Debate on Facial Recognition Technologies in China**](https://mit-serc.pubpub.org/pub/public-debate-on-facial-recognition-technologies-in-china/release/1)**, by Tristan G. Brown, Alexander Statman, and Celine Sui**
+{{% resource_link "2d0f7cc8-538f-49e2-bf26-e6a77309041c" "**Public Debate on Facial Recognition Technologies in China**" %}}**, by Tristan G. Brown, Alexander Statman, and Celine Sui**
 
 *Keywords:* facial recognition, Chinese law, social media
 
-[**Protections for Human Subjects in Research: Old Models, New Needs?**](https://mit-serc.pubpub.org/pub/protections-for-human-subjects/release/1)**, by Laura Stark (Vanderbilt University)**
+{{% resource_link "6ca156bf-380f-4b96-99c2-58069b9071c5" "**Protections for Human Subjects in Research: Old Models, New Needs?**" %}}**, by Laura Stark (Vanderbilt University)**
 
 *Keywords:* human-subjects research, informed consent, institutional review boards, big data

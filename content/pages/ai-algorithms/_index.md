@@ -57,42 +57,42 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ### Summer 2023
 
-[**Pretrial Risk Assessment on the Ground: Algorithms, Judgments, Meaning, and Policy**](https://mit-serc.pubpub.org/pub/czviu6qc?readingCollection=e057132a)**, by Cristopher Moore, Elise Ferguson, and Paul Guerin**
+{{% resource_link "0aee2633-de58-4efa-86a4-986ca2a1592e" "**Pretrial Risk Assessment on the Ground: Algorithms, Judgments, Meaning, and Policy**" %}}**, by Cristopher Moore, Elise Ferguson, and Paul Guerin**
 
 *Keywords:* risk assessment, pretrial detention, algorithmic fairness, criminal justice reform
 
 ### Winter 2023
 
-[**Algorithmic Fairness in Chest X-ray Diagnosis: A Case Study**](https://mit-serc.pubpub.org/pub/algorithmic-chest/)**, by Haoran Zhang, Thomas Hartvigsen, and Marzyeh Ghassemi (MIT)**
+{{% resource_link "55153b24-dddd-438b-8323-e587eaededb3" "**Algorithmic Fairness in Chest X-ray Diagnosis: A Case Study**" %}}**, by Haoran Zhang, Thomas Hartvigsen, and Marzyeh Ghassemi (MIT)**
 
 *Keywords:* algorithmic fairness, deep learning, medical imaging, machine learning for health care
 
-[**The Right to Be an Exception to a Data-Driven Rule**](https://mit-serc.pubpub.org/pub/right-to-be-exception/)**, by Sarah H. Cen and Manish Raghavan (MIT)**
+{{% resource_link "f8222bea-083c-4f5f-93e2-40689fc9ac15" "**The Right to Be an Exception to a Data-Driven Rule**" %}}**, by Sarah H. Cen and Manish Raghavan (MIT)**
 
 *Keywords:* data-driven decision-making, rights and duties, individualization, uncertainty, harm
 
-[**Twitter Gamifies the Conversation**](https://mit-serc.pubpub.org/pub/twitter-conversation/)**, by C. Thi Nguyen (University of Utah), Meica Magnani (Northeastern University), and Susan Kennedy (Santa Clara University)**
+{{% resource_link "6fd63ea6-0993-4018-a7b3-931de506766c" "**Twitter Gamifies the Conversation**" %}}**, by C. Thi Nguyen (University of Utah), Meica Magnani (Northeastern University), and Susan Kennedy (Santa Clara University)**
 
 *Keywords:* social media, social epistemology, Twitter, gamification, value capture, technology ethics
 
 ### Summer 2022
 
-[**Patenting Bias: Algorithmic Race and Ethnicity Classifications, Proprietary Rights, and Public Data**](https://mit-serc.pubpub.org/pub/patenting-bias/)**, by Tiffany Nichols (Harvard University)**
+{{% resource_link "8b6d79e4-326e-4375-960b-9f8273ea6f4f" "**Patenting Bias: Algorithmic Race and Ethnicity Classifications, Proprietary Rights, and Public Data**" %}}**, by Tiffany Nichols (Harvard University)**
 
 *Keywords*: racial and ethnic classifications, algorithmic bias, patents, public data
 
 ### Winter 2022
 
-[**Differential Privacy and the 2020 US Census**](https://mit-serc.pubpub.org/pub/differential-privacy-2020-us-census/release/1)**, by Simson Garfinkel (George Washington University)**
+{{% resource_link "ca2e7c52-e927-4458-83bb-0f0b025a08a8" "**Differential Privacy and the 2020 US Census**" %}}**, by Simson Garfinkel (George Washington University)**
 
 *Keywords:* differential privacy, disclosure avoidance, statistical disclosure limitation, US Census Bureau
 
-[**Algorithmic Redistricting and Black Representation in US Elections**](https://mit-serc.pubpub.org/pub/algorithmic-redistricting-in-us-elections/release/1)**, by Zachary Schutzman (MIT)**
+{{% resource_link "179b9622-183d-4d43-98de-3a86f998985f" "**Algorithmic Redistricting and Black Representation in US Elections**" %}}**, by Zachary Schutzman (MIT)**
 
 *Keywords:* redistricting, algorithms, race, politics, elections
 
 ### Summer 2021
 
-[**Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle**](https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/2)**, by Harini Suresh and John Guttag**
+{{% resource_link "e9bbd23e-7d8f-4e50-bd71-b5c71d9e26c1" "**Understanding Potential Sources of Harm throughout the Machine Learning Life Cycle**" %}}**, by Harini Suresh and John Guttag**
 
 *Keywords:* fairness in machine learning, societal implications of machine learning, algorithmic bias, AI ethics
