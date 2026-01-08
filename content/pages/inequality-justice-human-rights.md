@@ -49,57 +49,57 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 ### Summer 2023
 
-{{% resource_link "0aee2633-de58-4efa-86a4-986ca2a1592e" "**Pretrial Risk Assessment on the Ground: Algorithms, Judgments, Meaning, and Policy**" %}}**, by Cristopher Moore, Elise Ferguson, and Paul Guerin**
+[**Pretrial Risk Assessment on the Ground: Algorithms, Judgments, Meaning, and Policy**](https://mit-serc.pubpub.org/pub/czviu6qc?readingCollection=e057132a)**, by Cristopher Moore, Elise Ferguson, and Paul Guerin**
 
 *Keywords:* risk assessment, pretrial detention, algorithmic fairness, criminal justice reform
 
 ### Winter 2023
 
-{{% resource_link "55153b24-dddd-438b-8323-e587eaededb3" "**Algorithmic Fairness in Chest X-ray Diagnosis: A Case Study**" %}}**, by Haoran Zhang, Thomas Hartvigsen, and Marzyeh Ghassemi (MIT)**
+[**Algorithmic Fairness in Chest X-ray Diagnosis: A Case Study**](https://mit-serc.pubpub.org/pub/algorithmic-chest/)**, by Haoran Zhang, Thomas Hartvigsen, and Marzyeh Ghassemi (MIT)**
 
 *Keywords:* algorithmic fairness, deep learning, medical imaging, machine learning for health care
 
-{{% resource_link "f8222bea-083c-4f5f-93e2-40689fc9ac15" "**The Right to Be an Exception to a Data-Driven Rule**" %}}**, by Sarah H. Cen and Manish Raghavan (MIT)**
+[**The Right to Be an Exception to a Data-Driven Rule**](https://mit-serc.pubpub.org/pub/right-to-be-exception/)**, by Sarah H. Cen and Manish Raghavan (MIT)**
 
 *Keywords*: data-driven decision-making, rights and duties, individualization, uncertainty, harm
 
 ### Summer 2022
 
-{{% resource_link "9edb8c8d-9cd8-44ac-97c2-7d35368b3c5e" "**\"Porsche Girl\": When a Dead Body Becomes a Meme**" %}}**, by Nadia de Vries (University of Amsterdam)**
+[**"Porsche Girl": When a Dead Body Becomes a Meme**](https://mit-serc.pubpub.org/pub/porsche-girl/)**, by Nadia de Vries (University of Amsterdam)**
 
 *Keywords*: digital death, bodies, memes, online abuse, Nikki Castouras
 
-{{% resource_link "8b6d79e4-326e-4375-960b-9f8273ea6f4f" "**Patenting Bias: Algorithmic Race and Ethnicity Classifications, Proprietary Rights, and Public Data**" %}}**, by Tiffany Nichols (Harvard University)**
+[**Patenting Bias: Algorithmic Race and Ethnicity Classifications, Proprietary Rights, and Public Data**](https://mit-serc.pubpub.org/pub/patenting-bias/)**, by Tiffany Nichols (Harvard University)**
 
 *Keywords*: racial and ethnic classifications, algorithmic bias, patents, public data
 
 ### Winter 2022
 
-{{% resource_link "6ca156bf-380f-4b96-99c2-58069b9071c5" "**Protections for Human Subjects in Research: Old Models, New Needs?**" %}}**, by Laura Stark (Vanderbilt University)**
+[**Protections for Human Subjects in Research: Old Models, New Needs?**](https://mit-serc.pubpub.org/pub/protections-for-human-subjects/release/1)**, by Laura Stark (Vanderbilt University)**
 
 *Keywords:* human-subjects research, informed consent, institutional review boards, big data
 
-{{% resource_link "179b9622-183d-4d43-98de-3a86f998985f" "**Algorithmic Redistricting and Black Representation in US Elections**" %}}**, by Zachary Schutzman (MIT)**
+[**Algorithmic Redistricting and Black Representation in US Elections**](https://mit-serc.pubpub.org/pub/algorithmic-redistricting-in-us-elections/release/1)**, by Zachary Schutzman (MIT)**
 
 *Keywords:* redistricting, algorithms, race, politics, elections
 
 ### Summer 2021
 
-{{% resource_link "7a377b13-007a-4d18-b3b2-fd9363c3f8bf" "**Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source**" %}}**, by Christina Dunbar-Hester (University of Southern California)**
+[**Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source**](https://mit-serc.pubpub.org/pub/hacking-technology-hacking-communities/release/2)**, by Christina Dunbar-Hester (University of Southern California)**
 
 *Keywords:* open source software; diversity and inclusion; community governance; gender; race; values in computing; codes of conduct
 
 ### Winter 2021
 
-{{% resource_link "c6c31aa5-cf1a-4362-a09f-4b7363177138" "**The Dangers of Risk Prediction in the Criminal Justice System**" %}}**, by Julia Dressel (Dartmouth College) and Hany Farid (University of California, Berkeley)**
+[**The Dangers of Risk Prediction in the Criminal Justice System**](https://mit-serc.pubpub.org/pub/risk-prediction-in-cj/release/2?readingCollection=40dca7f1)**, by Julia Dressel (Dartmouth College) and Hany Farid (University of California, Berkeley)**
 
 *Keywords:* algorithmic risk prediction, algorithmic bias, algorithmic fairness, algorithmic transparency, criminal justice
 
-{{% resource_link "f453bf58-3954-4c5b-8df8-3a6544a8ed25" "**The Bias in the Machine: Facial Recognition Technology and Racial Disparities**" %}}**, by Sidney Perkowitz (Emory University)**
+[**The Bias in the Machine: Facial Recognition Technology and Racial Disparities**](https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readingCollection=40dca7f1)**, by Sidney Perkowitz (Emory University)**
 
 *Keywords:* facial recognition, justice system, racial equity, false arrest
 
-{{% resource_link "4e2e981e-abf7-495a-9092-0c9a9bc2b0c4" "**Who Collects the Data? A Tale of Three Maps**" %}}**, by Catherine D'Ignazio (MIT) and Lauren Klein (Emory University)**
+[**Who Collects the Data? A Tale of Three Maps**](https://mit-serc.pubpub.org/pub/tale-of-three-maps/release/1)**, by Catherine D'Ignazio (MIT) and Lauren Klein (Emory University)**
 
 *Keywords:* redlining, social inequality and oppression, missing data, counterdata, matrix of domination, who questions
 
@@ -109,4 +109,4 @@ Brief, specially commissioned and peer-reviewed cases intended to be effective f
 
 An exercise in developing a code of conduct for a team-based course in Github-hosted project repositories. 
 
-- *Associated case study:* Dunbar-Hester, C. (2021). "Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source." MIT Case Studies in Social and Ethical Responsibilities of Computing, Summer 2021. {{% resource_link "f1e773b7-7584-4425-80a9-10efdf65873f" "https://doi.org/10.21428/2c646de5.07bc6308" %}}
+- *Associated case study:* Dunbar-Hester, C. (2021). "Hacking Technology, Hacking Communities: Codes of Conduct and Community Standards in Open Source." MIT Case Studies in Social and Ethical Responsibilities of Computing, Summer 2021. [https://doi.org/10.21428/2c646de5.07bc6308](https://doi.org/10.21428/2c646de5.07bc6308)

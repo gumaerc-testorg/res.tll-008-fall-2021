@@ -7,8 +7,7 @@ file_size: 106237
 file_type: image/jpeg
 image_metadata:
   caption: 'Students involved in active learning projects. (Courtesy of University
-    of Saskatchewan (usask) on Flickr. License: {{% resource_link "c4e454c4-ad1f-49fe-8ada-8b9e1b65594d"
-    "CC BY-NC-SA" %}}.)'
+    of Saskatchewan (usask) on Flickr. License: [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/).)'
   credit: ''
   image-alt: Two pairs of students sitting at a desk and discussing with each other.
 learning_resource_types: []

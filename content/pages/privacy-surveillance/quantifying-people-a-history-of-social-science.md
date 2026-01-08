@@ -33,8 +33,8 @@ video_metadata:
 
 Ernest Burgess, “Factors Determining Success or Failure on Parole,” in Andrew A. Bruce et al., A Study of the Indeterminate Sentence and Parole in the State of Illinois (Chicago: Northwestern University Press for the American Institute of Criminal Law and Criminology, 1928), 241-286.
 
-Raymond Dussault, “{{% resource_link "e142ee57-2c77-4f2e-82a9-f4241ad20c0d" "Jack Maple: Betting on Intelligence: Former NYPD Map Master Puts His Money Where His Crimes Stats Are" %}},” Government Technology (March 31, 1999).
+Raymond Dussault, “[Jack Maple: Betting on Intelligence: Former NYPD Map Master Puts His Money Where His Crimes Stats Are](https://www.govtech.com/magazines/gt/Jack-Maple-Betting-on-Intelligence.html),” Government Technology (March 31, 1999).
 
-Yeshimabeit Milner (founder of Data for Black Lives), “{{% resource_link "40c8b256-85c3-4b6c-98e2-d1258d9d2190" "Abolish Big Data" %}},” talk at Data Intersections 2020, University of Miami Institute for Data Science and Computing (February 21, 2020). \[45 minutes\]
+Yeshimabeit Milner (founder of Data for Black Lives), “[Abolish Big Data](https://www.youtube.com/watch?v=wR5i6qXJH4o),” talk at Data Intersections 2020, University of Miami Institute for Data Science and Computing (February 21, 2020). \[45 minutes\]
 
-Julia Dressel and Hany Farid, “{{% resource_link "b9bb2411-9074-4b96-bba9-40ec14244848" "The Dangers of Risk Prediction in the Criminal Justice System" %}},” MIT Case Studies in Social and Ethical Responsibilities of Computing (February 2021).
+Julia Dressel and Hany Farid, “[The Dangers of Risk Prediction in the Criminal Justice System](https://doi.org/10.21428/2c646de5.f5896f9f),” MIT Case Studies in Social and Ethical Responsibilities of Computing (February 2021).
