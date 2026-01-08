@@ -25,6 +25,6 @@ The goal is for these cards to become a collaborative resource—we’re looking
 
 {{% resource_link "277631cc-2b70-46d7-8304-e74a180c6247" "Considered Design Cards (Printing and Assembly) (PDF)" %}}
 
-{{% resource_link "1aa6df8d-1fea-4bb8-8714-8646bc86780b" "Considered Design Card Resources" %}}, which includes in-depth activity instructions, discussion points, and a template for your own activities
+[Considered Design Card Resources](https://docs.google.com/document/d/1WyzZcDHXlu4wjf3FBtC6VuYnFhmORDEbTzJ7SL1YA8w/edit?usp=sharing), which includes in-depth activity instructions, discussion points, and a template for your own activities
 
-{{% resource_link "67bea064-9513-4467-94bd-2b1213189918" "Considered Design Card Submissions" %}}, to submit a new or remixed card for consideration
+[Considered Design Card Submissions](https://docs.google.com/forms/d/e/1FAIpQLSducNnw7nUlcRqW_0sE8t5DfPcwzxt58WDfpsu2csm-Dtsqyg/viewform), to submit a new or remixed card for consideration
